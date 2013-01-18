@@ -1,14 +1,12 @@
 package com.android.guide.exampleintentservice;
 
-import java.util.Locale;
-
-import com.android.guide.exampleintentservice.MainActivity.TextCapitalizeResultReceiver;
-
 import android.app.IntentService;
 import android.content.Intent;
 import android.os.SystemClock;
 import android.text.format.DateFormat;
 import android.util.Log;
+
+import com.android.guide.exampleintentservice.MainActivity.TextCapitalizeResultReceiver;
 
 public class ExampleIntentService extends IntentService {
 	private static final String TAG =ExampleIntentService.class.getSimpleName();

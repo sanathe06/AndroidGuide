@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DynamicMenuItems</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="click_here">Click and see menu changes</string>
+	<string name="str_menu_one">Menu Item One</string>
+	<string name="str_menu_two">Menu Item Two</string>
+	<string name="str_menu_three">Menu Item Three</string>
+	<string name="str_menu_four">Menu Item Four</string>
+	<string name="str_menu_five">Menu Item Five</string>
+	<string name="str_menu_six">Menu Item Six</string>
+</resources>
